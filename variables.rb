@@ -14,3 +14,8 @@
 1. "11.30"
 2. "4.20"
 3. "321.45"
+
+## Boolean Variable examples
+1. made_shot = true
+2. missed shot = false
+
